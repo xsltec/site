@@ -296,12 +296,14 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
               "name": "desktop",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "",
               "size": 0,
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title1": "Autorização",
@@ -315,8 +317,9 @@
               "name": "search",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title2": "Auditoria",
@@ -330,8 +333,9 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title3": "Cobrança",
@@ -345,8 +349,9 @@
               "name": "protect",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title4": "Nota Fiscal",
@@ -529,7 +534,7 @@
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"index.html#msg-box5-2\">Desenvolvimento</a></li><li><a class=\"text-white\" href=\"index.html#msg-box6-1\">Sistemas</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Consultoria</a></li></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "es.rocha@haydoo.com",
+            "action": "evandro@xsl.com.br",
             "alerts": {
               "success": "Obrigado, e aguarde nosso contato!"
             },
